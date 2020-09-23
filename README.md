@@ -1,4 +1,4 @@
-# webdevport
+# Web Development Portfolio
 portfolio for the web development course
 
 [XML-документ](https://github.com/calabiyauspace/webdevelop/tree/master/1sem/Тема%201/XMLT-001)
